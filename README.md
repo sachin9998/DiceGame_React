@@ -1,8 +1,16 @@
-# React + Vite
+# DiceGame - React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple Dice Game web application built on ReactJS.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Live Preview: https://dicegamebysachinalam.netlify.app/
+- Tech Stack used: HTML, CSS, JavaScript, ReactJS, Netlify
+
+## Screenshots
+
+![Screenshot 2024-02-22 at 11 48 57 AM](https://github.com/sachin9998/DiceGame_React/assets/25192452/43dc4d05-59a4-4733-b2da-1fe0a195377d)
+
+![Screenshot 2024-02-22 at 11 50 23 AM](https://github.com/sachin9998/DiceGame_React/assets/25192452/16ca7c28-ea92-485f-9fd9-6df7ff05319c)
+
+
+
