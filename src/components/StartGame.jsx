@@ -6,7 +6,7 @@ function StartGame({ toggle }) {
         <Container>
 
             <div>
-                <img src="/public/images/dices.png"></img>
+                <img src="/images/dices.png"></img>
             </div>
 
             <div className="content">
